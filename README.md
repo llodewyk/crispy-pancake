@@ -1,2 +1,2 @@
 # crispy-pancake
-Lolz lets see what happens
+Let's make a rap generator.
